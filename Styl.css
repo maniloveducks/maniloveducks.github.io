@@ -1,8 +1,10 @@
 
 	body{
+		height: 100vh;
 	background-image: url('https://upload.wikimedia.org/wikipedia/commons/d/de/Chart_rosyjski_borzoj_rybnik-kamien_pl.jpg');
 	 background-attachment: fixed;
 	 background-size: cover;
+	
 	}
 	h2{
 	color:white;
@@ -22,7 +24,5 @@ a:hover {
   color: red;
   background-color: transparent;
   text-decoration: underline;
-  button{
-	  color:white;
-  }
+ 
 }
